@@ -1,2 +1,2 @@
-bottle
-petl
+bottle==0.12.16
+petl==1.2.0

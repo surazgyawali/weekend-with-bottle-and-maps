@@ -1,4 +1,5 @@
 import json
+import os
 
 import bottle
 import petl
@@ -35,3 +36,8 @@ def get_offices():
     return
 
 bottle.run(host="0.0.0.0", port=8000, debug=True,reloader=True)
+
+if os.environ.get('APP_LOCATION') == 'heroku':
+    bottle.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+else:
+    bottle.run(host="0.0.0.0", port=8000, debug=True,reloader=True)
