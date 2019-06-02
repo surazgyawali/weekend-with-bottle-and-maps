@@ -15,7 +15,6 @@ def server_static(filepath):
 def home():
     data_table =  petl.fromcsv(SERVICES_FILE)
     data = [("Business & Trade",1),("Life Events",2),("Legal Information & Services",3),("Employment & Jobs",4),("Health & Wellbeing",5)]
-    print(data)
     return bottle.template('office_map',data=data)
 
 @bottle.route("/getoffices")
@@ -35,7 +34,6 @@ def get_offices():
 
     return
 
-bottle.run(host="0.0.0.0", port=8000, debug=True,reloader=True)
 
 if os.environ.get('APP_LOCATION') == 'heroku':
     bottle.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
