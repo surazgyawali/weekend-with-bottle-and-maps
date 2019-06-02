@@ -1,0 +1,74 @@
+OfficeServiceID,OfficeID,ServiceID,Office,Suburb,Phone,Email,Lat,Lon
+1,1,1,Elton Mckenzie,Hurstville,(+61) 02 35563485,hurstville@myoffice.gov.au,-33.975869,151.088939
+2,1,2,Elton Mckenzie,Hurstville,(+61) 02 35563485,hurstville@myoffice.gov.au,-33.975869,151.088939
+3,2,1,Kennith Graves,Sydney,(+61) 02 34533466,sydney@myoffice.gov.au,-33.867139,151.207114
+4,2,2,Kennith Graves,Sydney,(+61) 02 34533466,sydney@myoffice.gov.au,-33.867139,151.207114
+5,2,3,Kennith Graves,Sydney,(+61) 02 34533466,sydney@myoffice.gov.au,-33.867139,151.207114
+6,2,4,Kennith Graves,Sydney,(+61) 02 34533466,sydney@myoffice.gov.au,-33.867139,151.207114
+7,2,5,Kennith Graves,Sydney,(+61) 02 34533466,sydney@myoffice.gov.au,-33.867139,151.207114
+8,3,1,Myrna Duke,Auburn,(+61) 02 36372375,auburn@myoffice.gov.au,-33.849322,151.033421
+9,3,2,Myrna Duke,Auburn,(+61) 02 36372375,auburn@myoffice.gov.au,-33.849322,151.033421
+10,4,1,Parker Lang,Riverwood,(+61) 02 45747345,riverwood@myoffice.gov.au,-33.949859,151.052469
+11,4,4,Parker Lang,Riverwood,(+61) 02 45747345,riverwood@myoffice.gov.au,-33.949859,151.052469
+12,4,5,Parker Lang,Riverwood,(+61) 02 45747345,riverwood@myoffice.gov.au,-33.949859,151.052469
+13,5,2,Sara Mcconnell,Fingal Bay,(+61) 02 37532374,fingalbay@myoffice.gov.au,-32.748113,152.170141
+14,6,3,Anton Orozco,Harrington,(+61) 02 36733495,harrington@myoffice.gov.au,-31.872153,152.689811
+15,7,1,Lillian Leach,Back Forest,(+61) 02 34953946,backforest@myoffice.gov.au,-34.853655,150.678507
+16,7,2,Lillian Leach,Back Forest,(+61) 02 34953946,backforest@myoffice.gov.au,-34.853655,150.678507
+17,7,5,Lillian Leach,Back Forest,(+61) 02 34953946,backforest@myoffice.gov.au,-34.853655,150.678507
+18,8,1,Kari Avery,Jindabyne,(+61) 02 82452731,jindabyne @myoffice.gov.au,-36.415074,148.618871
+19,8,2,Kari Avery,Jindabyne,(+61) 02 82452731,jindabyne @myoffice.gov.au,-36.415074,148.618871
+20,8,3,Kari Avery,Jindabyne,(+61) 02 82452731,jindabyne @myoffice.gov.au,-36.415074,148.618871
+21,9,1,Kate Mcpherson,Benolong,(+61) 02 70462777,benolong@myoffice.gov.au,-32.413736,148.63938
+22,9,4,Kate Mcpherson,Benolong,(+61) 02 70462777,benolong@myoffice.gov.au,-32.413736,148.63938
+23,10,1,Russel Silva,Melbourne,(+61) 03 56741965,melbourne@myoffice.gov.au,-37.814563,144.970267
+24,10,2,Russel Silva,Melbourne,(+61) 03 56741965,melbourne@myoffice.gov.au,-37.814563,144.970267
+25,10,3,Russel Silva,Melbourne,(+61) 03 56741965,melbourne@myoffice.gov.au,-37.814563,144.970267
+26,10,4,Russel Silva,Melbourne,(+61) 03 56741965,melbourne@myoffice.gov.au,-37.814563,144.970267
+27,10,5,Russel Silva,Melbourne,(+61) 03 56741965,melbourne@myoffice.gov.au,-37.814563,144.970267
+28,11,2,Bettie Stevenson,Preston,(+61) 03 45627777,preston@myoffice.gov.au,-37.738736,145.000515
+29,12,3,Ofelia Allen,Petticoat Creek,(+61) 03 74364446,petticoatcreek@myoffice.gov.au,-38.718949,143.725959
+30,13,1,Kirby Graham,Douglas,(+61) 03 73082341,douglas@myoffice.gov.au,-37.842988,144.892631
+31,13,4,Kirby Graham,Douglas,(+61) 03 73082341,douglas@myoffice.gov.au,-37.842988,144.892631
+32,14,1,Emmitt Reid,Mildura,(+61) 03 56439999,mildura@myoffice.gov.au,-34.181714,142.163072
+33,14,5,Emmitt Reid,Mildura,(+61) 03 56439999,mildura@myoffice.gov.au,-34.181714,142.163072
+34,15,1,Jamel Villa,Broadford,(+61) 03 35672067,broadford@myoffice.gov.au,-37.203001,145.050171
+35,16,1,Adolfo Massey,Officer,(+61) 03 36972945,officer@myoffice.gov.au,-38.063056,145.40958
+36,16,2,Adolfo Massey,Officer,(+61) 03 36972945,officer@myoffice.gov.au,-38.063056,145.40958
+37,17,1,Shawn Valdez,Nowa Nowa,(+61) 03 34567956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+38,17,2,Shawn Valdez,Nowa Nowa,(+61) 03 34567956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+39,17,3,Shawn Valdez,Nowa Nowa,(+61) 03 34567956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+40,17,4,Shawn Valdez,Nowa Nowa,(+61) 03 34567956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+41,17,5,Shawn Valdez,Nowa Nowa,(+61) 03 34567956,nowanowa@myoffice.gov.au,-37.733238,148.089423
+42,18,3,Raymond Moses,Langsborough,(+61) 03 70768883,langsborough@myoffice.gov.au,-38.651487,146.675098
+43,19,1,Nicholas Evans,Brisbane,(+61) 07 36728709,brisbane@myoffice.gov.au,-27.46758,153.027892
+44,19,2,Nicholas Evans,Brisbane,(+61) 07 36728709,brisbane@myoffice.gov.au,-27.46758,153.027892
+45,19,3,Nicholas Evans,Brisbane,(+61) 07 36728709,brisbane@myoffice.gov.au,-27.46758,153.027892
+46,19,4,Nicholas Evans,Brisbane,(+61) 07 36728709,brisbane@myoffice.gov.au,-27.46758,153.027892
+47,19,5,Nicholas Evans,Brisbane,(+61) 07 36728709,brisbane@myoffice.gov.au,-27.46758,153.027892
+48,20,4,Janine Kelly,Robertson,(+61) 07 33753892,robertson@myoffice.gov.au,-27.565733,153.057213
+49,21,1,Jeanne Summers,Logan Village,(+61) 07 34588880,loganvillage@myoffice.gov.au,-27.767054,153.116881
+50,21,5,Jeanne Summers,Logan Village,(+61) 07 34588880,loganvillage@myoffice.gov.au,-27.767054,153.116881
+51,22,1,Shayne Mendez,Ipswich,(+61) 07 34567890,ipswich@myoffice.gov.au,-27.614604,152.760876
+52,22,4,Shayne Mendez,Ipswich,(+61) 07 34567890,ipswich@myoffice.gov.au,-27.614604,152.760876
+53,22,5,Shayne Mendez,Ipswich,(+61) 07 34567890,ipswich@myoffice.gov.au,-27.614604,152.760876
+54,23,1,Vaughn Griffith,Cattle Creek,(+61) 07 44566871,cattlecreek@myoffice.gov.au,-27.6483,150.836678
+55,23,4,Vaughn Griffith,Cattle Creek,(+61) 07 44566871,cattlecreek@myoffice.gov.au,-27.6483,150.836678
+56,24,2,Terrence Webster,Caboolture,(+61) 07 35679012,caboolture@myoffice.gov.au,-27.085007,152.951707
+57,25,5,Marylou Mathews,Booie,(+61) 07 33789000,booie@myoffice.gov.au,-26.498426,151.935421
+58,26,1,Romeo Sweeney,Rockhampton,(+61) 07 56472855,rockhampton@myoffice.gov.au,-23.378941,150.512323
+59,26,2,Romeo Sweeney,Rockhampton,(+61) 07 56472855,rockhampton@myoffice.gov.au,-23.378941,150.512323
+60,26,3,Romeo Sweeney,Rockhampton,(+61) 07 56472855,rockhampton@myoffice.gov.au,-23.378941,150.512323
+61,27,1,Fred Walker,Townsville,(+61) 07 45637778,townsville @myoffice.gov.au,-19.267358,146.80654
+62,27,2,Fred Walker,Townsville,(+61) 07 45637778,townsville @myoffice.gov.au,-19.267358,146.80654
+63,27,3,Fred Walker,Townsville,(+61) 07 45637778,townsville @myoffice.gov.au,-19.267358,146.80654
+64,27,4,Fred Walker,Townsville,(+61) 07 45637778,townsville @myoffice.gov.au,-19.267358,146.80654
+65,27,5,Fred Walker,Townsville,(+61) 07 45637778,townsville @myoffice.gov.au,-19.267358,146.80654
+66,28,1,Elroy Raymond,Cairns,(+61) 07 33671119,cairns@myoffice.gov.au,-16.925397,145.775178
+67,28,3,Elroy Raymond,Cairns,(+61) 07 33671119,cairns@myoffice.gov.au,-16.925397,145.775178
+68,28,5,Elroy Raymond,Cairns,(+61) 07 33671119,cairns@myoffice.gov.au,-16.925397,145.775178
+69,29,1,Noe Reynolds,Adelaide,(+61) 09 65232244,adelaide@myoffice.gov.au,-34.92577,138.599732
+70,29,2,Noe Reynolds,Adelaide,(+61) 09 65232244,adelaide@myoffice.gov.au,-34.92577,138.599732
+71,29,3,Noe Reynolds,Adelaide,(+61) 09 65232244,adelaide@myoffice.gov.au,-34.92577,138.599732
+72,29,4,Noe Reynolds,Adelaide,(+61) 09 65232244,adelaide@myoffice.gov.au,-34.92577,138.599732
+73,29,5,Noe Reynolds,Adelaide,(+61) 09 65232244,adelaide@myoffice.gov.au,-34.92577,138.599732
